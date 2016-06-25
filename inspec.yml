@@ -1,0 +1,10 @@
+name: chef-client-hardening
+title: Hardening Framework Chef Client Hardening Test Suite
+maintainer: Sliim
+copyright: Sliim
+copyright_email: sliim@mailoo.org
+license: Apache 2 license
+summary: Test-suite for best-practice chef-client hardening
+version: 1.0.0
+supports:
+  - os-family: unix
