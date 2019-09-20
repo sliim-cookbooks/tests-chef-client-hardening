@@ -5,6 +5,6 @@ copyright: Sliim
 copyright_email: sliim@mailoo.org
 license: Apache 2 license
 summary: Test-suite for best-practice chef-client hardening
-version: 1.0.0
+version: 1.1.0
 supports:
   - os-family: unix
